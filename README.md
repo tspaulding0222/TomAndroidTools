@@ -8,3 +8,4 @@
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
+* [Android Arsenal](https://android-arsenal.com/) - A categorized directory of free libraries and tools for Android.
