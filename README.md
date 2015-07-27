@@ -1,6 +1,6 @@
 # TomAndroidTools
 * [Animation Libraries] (#animation-libraries)
-* [Activity(s) (#activitys)
+* [Activity(s)] (#activitys)
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
