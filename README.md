@@ -3,7 +3,7 @@
 * [Activity(s)] (#activitys)
 * [Images] (#images)
 * [Emulators] (#emulators)
-* Performance(#performance)
+* Performance (#performance)
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
