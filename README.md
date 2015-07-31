@@ -3,6 +3,7 @@
 * [Activity(s)] (#activitys)
 * [Images] (#images)
 * [Emulators] (#emulators)
+* Performance(#performance)
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
@@ -17,9 +18,13 @@
 ## Images
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
 * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
+* [Fresco](http://frescolib.org/) - Fresco is a powerful system for displaying images in Android applications. It takes care of image loading and display so you don't have to. Uses placeholder image until image is loaded
 
 ## Emulators
 * [Appetize](https://appetize.io/) - Stream iOS & Android Simulators in the Browser
+
+## Performance
+* [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
