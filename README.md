@@ -20,3 +20,4 @@
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
 * [Android Arsenal](https://android-arsenal.com/) - A categorized directory of free libraries and tools for Android.
+* [Once](https://github.com/jonfinerty/Once) - A small Android library to manage one-off operations.
