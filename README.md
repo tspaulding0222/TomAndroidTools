@@ -1,7 +1,7 @@
 # TomAndroidTools
 * [Animation Libraries] (#animation-libraries)
 * [Activity(s)] (#activitys)
-* [Views] (#Views)
+* [Views] (#views)
 * [Images] (#images)
 * [Emulators] (#emulators)
 * [Performance] (#performance)
