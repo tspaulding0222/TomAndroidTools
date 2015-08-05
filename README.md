@@ -13,6 +13,7 @@
 * [Circle View](https://github.com/jakob-grabner/Circle-Progress-View) - Circular Progress Bar
 * [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Collection of view animations
 * [Circular Reveal](https://github.com/ozodrukh/CircularReveal) - Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
+* [Circular Tools](https://github.com/AutSoft/CircularTools) - Circle based animations for Android (min. API 11)
 
 ## Activity(s)
 * [Custom Activity on Crash](https://github.com/Ereza/CustomActivityOnCrash) - Shows a custom made screen when the app crashes
