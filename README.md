@@ -11,6 +11,7 @@
 * [Pre-Lollipop Transitions](https://github.com/takahirom/PreLollipopTransition) - Transition Animations for Pre-Lollipop devices
 * [Circle View](https://github.com/jakob-grabner/Circle-Progress-View) - Circular Progress Bar
 * [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Collection of view animations
+* [Circular Reveal](https://github.com/ozodrukh/CircularReveal) - Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
 ## Activity(s)
 * [Custom Activity on Crash](https://github.com/Ereza/CustomActivityOnCrash) - Shows a custom made screen when the app crashes
@@ -25,6 +26,7 @@
 
 ## Performance
 * [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
+* [device-year-class](https://github.com/facebook/device-year-class) - A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
