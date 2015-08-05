@@ -1,6 +1,7 @@
 # TomAndroidTools
 * [Animation Libraries] (#animation-libraries)
 * [Activity(s)] (#activitys)
+* [Views] (#Views)
 * [Images] (#images)
 * [Emulators] (#emulators)
 * [Performance] (#performance)
@@ -15,6 +16,9 @@
 
 ## Activity(s)
 * [Custom Activity on Crash](https://github.com/Ereza/CustomActivityOnCrash) - Shows a custom made screen when the app crashes
+
+## Views
+* [Bubble Text View](https://github.com/dupengtao/BubbleTextView) - Android Bubble View. (Chat Bubble)
 
 ## Images
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
