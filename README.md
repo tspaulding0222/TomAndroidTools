@@ -19,6 +19,7 @@
 
 ## Views
 * [Bubble Text View](https://github.com/dupengtao/BubbleTextView) - Android Bubble View. (Chat Bubble)
+* [JCrop ImageView](https://github.com/jimcoven/JCropImageView) - Provides a lightweight implementation to support top/left/right/bottom/center crop views of based on the imageview class.
 
 ## Images
 * [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
