@@ -5,6 +5,7 @@
 * [Images] (#images)
 * [Emulators] (#emulators)
 * [Performance] (#performance)
+* [Logging] (#logging)
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
@@ -33,6 +34,9 @@
 ## Performance
 * [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [device-year-class](https://github.com/facebook/device-year-class) - A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.
+
+## Loggin
+* [Hugo] (https://github.com/JakeWharton/hugo) - Very very lazy easy way to log in Android
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
