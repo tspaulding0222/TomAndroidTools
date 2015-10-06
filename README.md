@@ -6,6 +6,7 @@
 * [Emulators] (#emulators)
 * [Performance] (#performance)
 * [Logging] (#logging)
+* [Android Studio Plugins] (#android-studio-plugins)
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
@@ -37,6 +38,10 @@
 
 ## Logging
 * [Hugo] (https://github.com/JakeWharton/hugo) - Very very lazy easy way to log in Android
+
+## Android Studio Plugins
+* [adb-idea] (https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+* [Android Drawable Importer] (https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions.
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
