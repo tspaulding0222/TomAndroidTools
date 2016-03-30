@@ -10,6 +10,7 @@
 * [Misc/Unknown] (#miscunknown)
 
 ## Animation Libraries
+* [Spinkit - Loading Animations] (https://github.com/ybq/Android-SpinKit) - Loading Animations
 * [Tom's Animated Path View](https://github.com/tspaulding0222/AnimatedPathView/tree/master) - Path Aniation
 * [Pre-Lollipop Transitions](https://github.com/takahirom/PreLollipopTransition) - Transition Animations for Pre-Lollipop devices
 * [Circle View](https://github.com/jakob-grabner/Circle-Progress-View) - Circular Progress Bar
