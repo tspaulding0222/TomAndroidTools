@@ -5,7 +5,7 @@
 * [Images] (#images)
 * [Emulators] (#emulators)
 * [Performance] (#performance)
-* [Logging] (#logging)
+* [Debuging] (#logging)
 * [Android Studio Plugins] (#android-studio-plugins)
 * [Misc/Unknown] (#miscunknown)
 
@@ -38,8 +38,9 @@
 * [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java
 * [device-year-class](https://github.com/facebook/device-year-class) - A library that analyzes an Android device's specifications and calculates which year the device would be considered "high end”.
 
-## Logging
+## Debuging
 * [Hugo] (https://github.com/JakeWharton/hugo) - Very very lazy easy way to log in Android
+* [Stetho] (http://facebook.github.io/stetho/) - Chrome Developer Tools Debugging
 
 ## Android Studio Plugins
 * [adb-idea] (https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
