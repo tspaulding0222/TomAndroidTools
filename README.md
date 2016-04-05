@@ -23,6 +23,7 @@
 * [Custom Activity on Crash](https://github.com/Ereza/CustomActivityOnCrash) - Shows a custom made screen when the app crashes
 
 ## Views
+* [Flex Layout](https://github.com/mmin18/FlexLayout) - Layout allowing Percentages
 * [Bubble Text View](https://github.com/dupengtao/BubbleTextView) - Android Bubble View. (Chat Bubble)
 * [JCrop ImageView](https://github.com/jimcoven/JCropImageView) - Provides a lightweight implementation to support top/left/right/bottom/center crop views of based on the imageview class.
 
