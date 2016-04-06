@@ -46,6 +46,7 @@
 ## Android Studio Plugins
 * [adb-idea] (https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
 * [Android Drawable Importer] (https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions.
+* [ADB Wireless] (http://developer.android.com/tools/help/adb.html#wireless) - Wireless ADB
 
 ## Misc/Unknown
 * [JitPack](https://jitpack.io/) - Github Package Repo
